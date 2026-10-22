@@ -30,32 +30,26 @@ const galleryImages = [
 
 const services = [
   {
-    number: '01',
     title: 'Excavation',
     text: '14-tonne excavator services for site cuts, trenching, foundations, drainage and general earthmoving.',
   },
   {
-    number: '02',
     title: 'Demolition',
     text: 'Safe, efficient demolition of residential and commercial structures, with materials removed from site.',
   },
   {
-    number: '03',
     title: 'Earthworks',
     text: 'Reliable earthmoving and bulk earthworks for residential, commercial and civil projects.',
   },
   {
-    number: '04',
     title: 'Site Preparation',
     text: 'Clearing, levelling, grading and complete site preparation ready for your next build.',
   },
   {
-    number: '05',
     title: 'Land Clearing',
     text: 'Efficient removal of vegetation, trees, debris and unwanted materials to prepare your site.',
   },
   {
-    number: '06',
     title: 'Material Removal',
     text: 'Tipper truck transport for soil, concrete, green waste, rock and other materials.',
   },
